@@ -1,5 +1,17 @@
-## Hi there 👋
+# 👋 Hola
 
+Desarrollador backend junior.  
+FP Desarrollo de Aplicaciones Informáticas (DAI) y actualmente reciclándome en backend con **Node.js y Python (FastAPI)**.
+
+## 🧰 Tecnologías
+- JavaScript (Node.js, Express)
+- Python (FastAPI)
+- SQL básico
+- Git & GitHub
+
+## 📂 Proyectos
+👉 Aquí iré subiendo proyectos backend reales y documentados.
+Gracias
 <!--
 **eLaurito/eLaurito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
