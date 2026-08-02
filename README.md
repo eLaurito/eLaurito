@@ -1,28 +1,22 @@
-# 👋 Hola
+👋 Hola, soy Ezequiel
 
-Desarrollador backend junior.  
-FP Desarrollo de Aplicaciones Informáticas (DAI) y actualmente reciclándome en backend con **Node.js y Python (FastAPI)**.
+Técnico Superior en Desarrollo de Aplicaciones, actualmente orientando mi perfil hacia QA y Testing de software.
 
-## 🧰 Tecnologías
-- JavaScript (Node.js, Express)
-- Python (FastAPI)
-- SQL básico
-- Git & GitHub
+Estoy reforzando mis conocimientos en testing manual y automatización de pruebas, mientras continúo desarrollándome en programación y backend.
 
-## 📂 Proyectos
-👉 Aquí iré subiendo proyectos backend reales y documentados.
-Gracias
-<!--
-**eLaurito/eLaurito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Tecnologías y conocimientos
+🧪 QA / Software Testing
+🐍 Python
+🟨 JavaScript / Node.js
+🗄️ SQL y bases de datos
+🔧 Git & GitHub
+⚙️ FastAPI / Express
+📂 Proyectos
 
-Here are some ideas to get you started:
+Actualmente desarrollando proyectos prácticos relacionados con testing, automatización y desarrollo backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 Puedes encontrar mis proyectos y ejercicios en los repositorios de este perfil.
+
+🎯 Objetivo
+
+Mi objetivo actual es incorporarme a un equipo tecnológico como QA Junior / Software Tester, seguir creciendo en automatización y desarrollar progresivamente mis conocimientos técnicos.
